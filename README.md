@@ -1,15 +1,15 @@
 # Corner Detection and Image Stitching
 Create a panoramic image from multiple images using Feature detection, Non Maximum Suppression, Feature Matching using feature descriptors and RANSAC.
 <p align="center">
- <img src="stitched_images/Set2.png" width="500"/>
+ <img src="stitched_images/Set2.png" width="700"/>
 </p>
 
 <p align="center">
- <img src="stitched_images/Set4.png" width="500"/>
+ <img src="stitched_images/Set4.png" width="700"/>
 </p>
 
 <p align="center">
- <img src="stitched_images/Set3.png" width="500"/>
+ <img src="stitched_images/Set3.png" width="700"/>
 </p>
 
 
@@ -44,7 +44,7 @@ This project implements corner detection, feature matching, and homography estim
 
 - **Image Stitching**: Warping and blending images to create a panorama
 <p align="center">
- <img src="outputs/mypano.png" width="500"/>
+ <img src="outputs/mypano.png" width="700"/>
 </p>
 
 ## Features
